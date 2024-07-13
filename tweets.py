@@ -6,17 +6,6 @@ from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 from PIL import Image
 
-# Original problematic line
-if not st.sidebar.checkbox('Close', True, key='1'):
-    st.write('Application is open')
-
-# Updated with unique keys
-if not st.sidebar.checkbox('Close', True, key='close_checkbox_1'):
-    st.write('Application is open')
-
-# Another widget with a unique key
-if st.button('Submit', key='submit_button_1'):
-    st.write('Button clicked!')
 
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
