@@ -23,9 +23,4 @@ Check out Kite: https://www.kite.com/get-kite/?utm_me...
 
 
 <<<<<<< HEAD
-## Preview of the output
 
-https://user-images.githubusercontent.com/88545581/170021352-2b1ada86-6949-4158-87ea-1124056b1237.mp4
-
-=======
->>>>>>> a2a31235fd3c9172f5da4ea9ea9e620e7caed3d1
