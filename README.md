@@ -22,7 +22,3 @@ Check out Kite: https://www.kite.com/get-kite/?utm_me...
  3) https://www.youtube.com/watch?v=-IM3531b1XU&list=PLM8lYG2MzHmTATqBUZCQW9w816ndU0xHc
 
 
-## Preview of the output
-
-https://user-images.githubusercontent.com/88545581/170021352-2b1ada86-6949-4158-87ea-1124056b1237.mp4
-
